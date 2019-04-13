@@ -1,0 +1,5 @@
+Get addresses from a CSV. 
+
+Do a for loop on property shark zip code, street, address. 
+
+partial link with zip, then partial link with street, then partial link with address. 
