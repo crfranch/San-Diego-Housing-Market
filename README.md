@@ -1,3 +1,5 @@
+# San-Diego-Housing-Market
+
 Proposal Summary:
 Create a database for San Diego real estate (one table at the address level, the other the zip code level). This database can be utilized for subsequent projects.
 
@@ -33,5 +35,3 @@ Merge Zillow & Property Shark data in Python
 Extract API output from txt
 Transform data sets as needed
 Load into Mongo DB
-
-# San-Diego-Housing-Market
